@@ -14,3 +14,13 @@ commit vers la branche principale.
 nom : mon_projet et initialisé avec la commande git init
 commande git status pour vérification
 message de commit : mise en place en local
+
+3 - Sur github.com le repository voaloany a été cloné pour être accessible en local
+la procédure utilisée est la suivante : 
+cliquer sur https clone url et copier dans le terminal
+le dossier est alors cloné en local 
+je  liste avec la commande ls pour voir le contenu
+je retrouve le repository voaloany en local 
+j'accède au fichier README.md avec la commande cat
+ces modifications vont etres commitées et ensuite récupérées via la commande pull
+
